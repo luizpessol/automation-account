@@ -6,4 +6,13 @@ az automation account create \
     --sku "Free" \
     --resource-group "Meu_Resoruce_Group"
  ```
+ ## Criar Runbook
+ ```
+ az automation runbook create \
+    --automation-account-name "Automation" \
+    --resource-group "RG-Automation" \
+    --name "StartVM" \
+    --type "PowerShell" \
+    --location "East US"
+ ```
  ## Obs. Criar a Run as Account conforme vídeo.
