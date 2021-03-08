@@ -1,7 +1,8 @@
 Lista de Conteúdos
 =================
 <!--ts-->
-   * [Como automatizar Stop e Start de VMs](https://github.com/luizpessol/azure-virtual-machines/blob/main/az_vm_create_cli.md)
+   * [Runbook para automatizar Start de VMs](https://github.com/luizpessol/azure-virtual-machines/blob/main/Start_VMs.md)
+   * [Runbook para automatizar Stop de VMs](https://github.com/luizpessol/azure-virtual-machines/blob/main/Stop_VMs.md)
 <!--te-->
 <h1 align="center">
   <img alt="AutomationAccount" title="#AutomationAccount" src="./automation_account.png" />
